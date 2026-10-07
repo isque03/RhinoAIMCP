@@ -1,0 +1,13 @@
+name: RhinoAIMCP
+version: 0.1.0
+authors:
+  - RhinoAIMCP contributors
+description: >
+  Clean-room Rhino 8 plugin that embeds a local MCP (Model Context Protocol)
+  HTTP server so AI agents can inspect the document and create geometry.
+url: https://github.com/isque03/RhinoAIMCP
+keywords:
+  - mcp
+  - ai
+  - agent
+icon_url: ""
